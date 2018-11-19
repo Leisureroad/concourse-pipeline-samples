@@ -86,4 +86,4 @@ This article does not provide any recommendation on how to setup a private Docke
 
 - [Sample Concourse application pipeline](https://github.com/pivotalservices/sample-app-pipeline)
 
-Updated 2018_11_19_V0.2
+Updated 2018_11_19_V0.3
