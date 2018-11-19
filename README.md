@@ -71,4 +71,4 @@ This repository provides sample code and recipes on Concourse CI pipelines and d
 
 </table>
 
-Updated! V0.1
+Updated! V0.2
