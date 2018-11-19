@@ -85,3 +85,5 @@ This article does not provide any recommendation on how to setup a private Docke
 - [Deploying Concourse on Bosh-lite](https://github.com/pivotalservices/concourse-pipeline-samples/tree/master/concourse-on-bosh-lite)
 
 - [Sample Concourse application pipeline](https://github.com/pivotalservices/sample-app-pipeline)
+
+Updated 2018_11_19_V0.1
